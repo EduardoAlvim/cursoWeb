@@ -1,0 +1,9 @@
+Criar uma página com a seguinte estrutura:
+Utilizando tag <div> para organização da estrutura;
+Cabeçalho (tag <header>) com título do site;
+Navegação (tag <nav>) com links para as seções da pagina;
+Seção de "sobre" com um título e uma breve descrição do site;
+Seção de "serviços" com uma lista não ordenada de 3 serviços do site;
+Tabela com 3 colunas (Nome, Idade e Cidade) e pelo menos 3 linhas de dados;
+Formulário de Contato com campos para Nome, Email e Mensagem, além de um botão de envio;
+Rodapé (tag <footer>) com direitos autorais;
